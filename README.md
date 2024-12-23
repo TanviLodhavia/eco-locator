@@ -1,1 +1,1 @@
-# eco-locator
+# ecolocator
